@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: BRAD Rental
+email: info@brad-rental.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  BRAD Rental is a bespoke Real estate and rental property managemet
+  solution hosted 100% in the cloud and available as a downloadable
+  management suite. Contact us for custom solutions on top of the platform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: BRADRental
+github_username:  brad-rental
 
 # Build settings
 theme: minima
